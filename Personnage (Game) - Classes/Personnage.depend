@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1530135074 source:d:\svt\programmation\openclassroom\c++\personnage\main.cpp
+	<iostream>
+	<string>
+	"Personnage.h"
+	"Guerrier.h"
+
+1530136961 d:\svt\programmation\openclassroom\c++\personnage\personnage.h
+	<iostream>
+	<string>
+
+1530136958 source:d:\svt\programmation\openclassroom\c++\personnage\personnage.cpp
+	<iostream>
+	"Personnage.h"
+
+1530135209 source:d:\svt\programmation\openclassroom\c++\personnage\guerrier.cpp
+	<iostream>
+	<string>
+	"Guerrier.h"
+
+1530136026 d:\svt\programmation\openclassroom\c++\personnage\guerrier.h
+	<iostream>
+	<string>
+	"Personnage.h"
+

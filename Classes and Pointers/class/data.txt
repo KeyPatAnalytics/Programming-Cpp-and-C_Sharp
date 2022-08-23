@@ -1,0 +1,6 @@
+1045 5 Ivanov
+1154 12 Petrov
+7002 10 Key
+0010 03 Ivanovitch
+2356 14 Ivan
+4691 14 Sergey
