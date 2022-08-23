@@ -1,0 +1,7 @@
+C:\Users\patat\Desktop\Programming\C sharp programming\exo5\exo5\bin\Debug\exo5.exe.config
+C:\Users\patat\Desktop\Programming\C sharp programming\exo5\exo5\bin\Debug\exo5.exe
+C:\Users\patat\Desktop\Programming\C sharp programming\exo5\exo5\bin\Debug\exo5.pdb
+C:\Users\patat\Desktop\Programming\C sharp programming\exo5\exo5\obj\Debug\exo5.csprojAssemblyReference.cache
+C:\Users\patat\Desktop\Programming\C sharp programming\exo5\exo5\obj\Debug\exo5.csproj.CoreCompileInputs.cache
+C:\Users\patat\Desktop\Programming\C sharp programming\exo5\exo5\obj\Debug\exo5.exe
+C:\Users\patat\Desktop\Programming\C sharp programming\exo5\exo5\obj\Debug\exo5.pdb

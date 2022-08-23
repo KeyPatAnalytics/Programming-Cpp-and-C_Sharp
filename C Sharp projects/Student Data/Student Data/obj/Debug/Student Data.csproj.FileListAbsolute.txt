@@ -1,0 +1,7 @@
+C:\Users\patat\Desktop\Programming\C sharp programming\Student Data\Student Data\obj\Debug\Student Data.csprojAssemblyReference.cache
+C:\Users\patat\Desktop\Programming\C sharp programming\Student Data\Student Data\obj\Debug\Student Data.csproj.CoreCompileInputs.cache
+C:\Users\patat\Desktop\Programming\C sharp programming\Student Data\Student Data\bin\Debug\Student Data.exe.config
+C:\Users\patat\Desktop\Programming\C sharp programming\Student Data\Student Data\bin\Debug\Student Data.exe
+C:\Users\patat\Desktop\Programming\C sharp programming\Student Data\Student Data\bin\Debug\Student Data.pdb
+C:\Users\patat\Desktop\Programming\C sharp programming\Student Data\Student Data\obj\Debug\Student Data.exe
+C:\Users\patat\Desktop\Programming\C sharp programming\Student Data\Student Data\obj\Debug\Student Data.pdb

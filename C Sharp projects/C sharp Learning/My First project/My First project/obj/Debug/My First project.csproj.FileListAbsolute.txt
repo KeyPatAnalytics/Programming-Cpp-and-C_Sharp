@@ -1,0 +1,7 @@
+C:\Users\patat\Desktop\Programming\C sharp programming\My First project\My First project\bin\Debug\My First project.exe.config
+C:\Users\patat\Desktop\Programming\C sharp programming\My First project\My First project\bin\Debug\My First project.exe
+C:\Users\patat\Desktop\Programming\C sharp programming\My First project\My First project\bin\Debug\My First project.pdb
+C:\Users\patat\Desktop\Programming\C sharp programming\My First project\My First project\obj\Debug\My First project.csprojAssemblyReference.cache
+C:\Users\patat\Desktop\Programming\C sharp programming\My First project\My First project\obj\Debug\My First project.csproj.CoreCompileInputs.cache
+C:\Users\patat\Desktop\Programming\C sharp programming\My First project\My First project\obj\Debug\My First project.exe
+C:\Users\patat\Desktop\Programming\C sharp programming\My First project\My First project\obj\Debug\My First project.pdb

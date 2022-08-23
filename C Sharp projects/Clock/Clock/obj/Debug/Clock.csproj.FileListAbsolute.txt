@@ -1,0 +1,7 @@
+C:\Users\patat\Desktop\Programming\C sharp programming\Clock\Clock\bin\Debug\Clock.exe.config
+C:\Users\patat\Desktop\Programming\C sharp programming\Clock\Clock\bin\Debug\Clock.exe
+C:\Users\patat\Desktop\Programming\C sharp programming\Clock\Clock\bin\Debug\Clock.pdb
+C:\Users\patat\Desktop\Programming\C sharp programming\Clock\Clock\obj\Debug\Clock.csprojAssemblyReference.cache
+C:\Users\patat\Desktop\Programming\C sharp programming\Clock\Clock\obj\Debug\Clock.csproj.CoreCompileInputs.cache
+C:\Users\patat\Desktop\Programming\C sharp programming\Clock\Clock\obj\Debug\Clock.exe
+C:\Users\patat\Desktop\Programming\C sharp programming\Clock\Clock\obj\Debug\Clock.pdb

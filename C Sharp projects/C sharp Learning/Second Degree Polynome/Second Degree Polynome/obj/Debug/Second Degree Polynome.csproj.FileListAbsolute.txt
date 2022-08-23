@@ -1,0 +1,7 @@
+C:\Users\patat\Desktop\Programming\C sharp programming\Second Degree Polynome\Second Degree Polynome\bin\Debug\Second Degree Polynome.exe.config
+C:\Users\patat\Desktop\Programming\C sharp programming\Second Degree Polynome\Second Degree Polynome\bin\Debug\Second Degree Polynome.exe
+C:\Users\patat\Desktop\Programming\C sharp programming\Second Degree Polynome\Second Degree Polynome\bin\Debug\Second Degree Polynome.pdb
+C:\Users\patat\Desktop\Programming\C sharp programming\Second Degree Polynome\Second Degree Polynome\obj\Debug\Second Degree Polynome.csprojAssemblyReference.cache
+C:\Users\patat\Desktop\Programming\C sharp programming\Second Degree Polynome\Second Degree Polynome\obj\Debug\Second Degree Polynome.csproj.CoreCompileInputs.cache
+C:\Users\patat\Desktop\Programming\C sharp programming\Second Degree Polynome\Second Degree Polynome\obj\Debug\Second Degree Polynome.exe
+C:\Users\patat\Desktop\Programming\C sharp programming\Second Degree Polynome\Second Degree Polynome\obj\Debug\Second Degree Polynome.pdb
