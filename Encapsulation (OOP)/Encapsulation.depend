@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1525012144 source:c:\users\gsmcc\desktop\svt\programmation\prog c++\encapsulation\main.cpp
+	<iostream>
+	"Rational.h"
+
+1525012657 c:\users\gsmcc\desktop\svt\programmation\prog c++\encapsulation\rational.h
+
+1526234978 source:d:\svt\programmation\prog c++\encapsulation\main.cpp
+	<iostream>
+	"Rational.h"
+
+1525025332 d:\svt\programmation\prog c++\encapsulation\rational.h
+

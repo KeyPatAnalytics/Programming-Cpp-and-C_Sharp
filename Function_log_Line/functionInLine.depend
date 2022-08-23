@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1524931212 source:c:\users\gsmcc\desktop\svt\programmation\prog c++\functioninline\main.cpp
+	<iostream>
+	"MyLibFile.h"
+
+1524933700 c:\users\gsmcc\desktop\svt\programmation\prog c++\functioninline\mylibfile.h
+

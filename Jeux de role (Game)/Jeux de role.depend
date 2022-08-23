@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1529619912 source:d:\svt\programmation\openclassroom\c++\jeux de role\jeux de role\arme.cpp
+	<iostream>
+	<string>
+	"Arme.h"
+
+1529617574 d:\svt\programmation\openclassroom\c++\jeux de role\jeux de role\arme.h
+	<iostream>
+	<string>
+
+1529617860 source:d:\svt\programmation\openclassroom\c++\jeux de role\jeux de role\main.cpp
+	<iostream>
+	<string>
+	"Personnage.h"
+
+1529858589 d:\svt\programmation\openclassroom\c++\jeux de role\jeux de role\personnage.h
+	<iostream>
+	<string>
+	"Arme.h"
+
+1529619853 source:d:\svt\programmation\openclassroom\c++\jeux de role\jeux de role\personnage.cpp
+	<iostream>
+	<string>
+	"Personnage.h"
+

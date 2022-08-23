@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1529572713 source:c:\users\ag15279\documents\lesson\main.cpp
+	<iostream>
+	"mystere.h"
+
+1529572704 c:\users\ag15279\documents\lesson\mystere.h
+	<string>
+
+1529573545 source:c:\users\ag15279\documents\lesson\mystere.cpp
+	<ctime>
+	<cstdlib>
+	<iostream>
+	<fstream>
+	<vector>
+	"mystere.h"
+
+1529572713 source:d:\svt\programmation\openclassroom\c++\lesson\main.cpp
+	<iostream>
+	"mystere.h"
+
+1529572704 d:\svt\programmation\openclassroom\c++\lesson\mystere.h
+	<string>
+

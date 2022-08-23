@@ -1,0 +1,50 @@
+Worker's ID: 10
+Name: Ivan
+Post: teacher
+The lowest salary: 15000
+
+Worker's ID: 11
+Name: Ivanovitch
+Post: driver
+The lowest salary: 13000
+
+Worker's ID: 12
+Name: Ivanov
+Post: scientist
+The lowest salary: 18000
+
+Worker's ID: 13
+Name: Petrov
+Post: programmist
+The lowest salary: 12600
+
+Worker's ID: 14
+Name: Sergey
+Post: manager
+The lowest salary: 12000
+
+Worker's ID: 15
+Name: Mila
+Post: Director
+The lowest salary: 119000
+
+Worker's ID: 16
+Name: Ivan
+Post: Statistician
+The lowest salary: 127000
+
+Worker's ID: 17
+Name: Vladmir
+Post: Controler
+The lowest salary: 13000
+
+Worker's ID: 18
+Name: Augustin
+Post: ingenieur
+The lowest salary: 85000
+
+Worker's ID: 19
+Name: Rene
+Post: receiption
+The lowest salary: 14500
+

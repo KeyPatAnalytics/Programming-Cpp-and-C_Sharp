@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1530134766 source:d:\svt\programmation\openclassroom\c++\fraction\fraction.cpp
+	<iostream>
+	<stdexcept>
+	"Fraction.h"
+	<cmath>
+
+1530128512 d:\svt\programmation\openclassroom\c++\fraction\fraction.h
+	<iostream>
+
+1530134549 source:d:\svt\programmation\openclassroom\c++\fraction\main.cpp
+	<iostream>
+	"Fraction.h"
+

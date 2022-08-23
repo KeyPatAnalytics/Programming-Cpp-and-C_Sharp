@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1529866539 source:d:\svt\programmation\openclassroom\c++\duree\main.cpp
+	<iostream>
+	"Duree.h"
+
+1529866430 d:\svt\programmation\openclassroom\c++\duree\duree.h
+
+1529866858 source:d:\svt\programmation\openclassroom\c++\duree\duree.cpp
+	<iostream>
+	"Duree.h"
+

@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1525006348 source:c:\users\gsmcc\desktop\svt\programmation\prog c++\namespace\a.cpp
+	"A.h"
+
+1525005330 c:\users\gsmcc\desktop\svt\programmation\prog c++\namespace\a.h
+
+1525006335 source:c:\users\gsmcc\desktop\svt\programmation\prog c++\namespace\b.cpp
+	"B.h"
+
+1525005589 c:\users\gsmcc\desktop\svt\programmation\prog c++\namespace\b.h
+
+1525005599 source:c:\users\gsmcc\desktop\svt\programmation\prog c++\namespace\main.cpp
+	<iostream>
+	"A.h"
+	"B.h"
+

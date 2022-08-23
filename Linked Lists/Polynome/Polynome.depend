@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1527160297 source:d:\svt\programmation\prog c++\lab\polynome\main.cpp
+	<iostream>
+	"Polynome.h"
+
+1527457872 d:\svt\programmation\prog c++\lab\polynome\polynome.h
+	<iostream>
+
+1527159885 source:d:\svt\programmation\prog c++\lab\polynome\polynome.cpp
+	<iostream>
+	"Polynome.h"
+	<cstring>
+

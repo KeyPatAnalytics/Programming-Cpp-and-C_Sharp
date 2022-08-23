@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1529447141 source:c:\users\dinasty\desktop\c++\tp1\main.cpp
+	<iostream>
+	<string>
+	<ctime>
+	<cstdlib>
+
+1529570119 source:d:\svt\programmation\openclassroom\c++\exo2\main.cpp
+	<iostream>
+	<string>
+	<ctime>
+	<cstdlib>
+	<fstream>
+
